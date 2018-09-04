@@ -6,7 +6,7 @@ namespace Ccr.Std.Core.Numerics.Ranges
 {
 	public class DoubleRange
     : NonIntegralRangeBase<Double>
-  {
+  { 
     public DoubleRange(
       Double minimum,
       Double maximum) : base(
